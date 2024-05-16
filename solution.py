@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-from torch_two_sample import MMDStatistic as MMD
+from hyppo.ksample import MMD
 
 
 chat_id = 1304567965
